@@ -14,6 +14,7 @@ students = [
 students[0]['last_name'] = 'Bryant'
 # print(students[0]['last_name'])
 # print(students)
+#MJ THE GOAT!!!
 
 #1.3 change messi to andres
 sports_directory = {
@@ -22,7 +23,7 @@ sports_directory = {
 }
 # sports_directory['soccer'][0] = 'Andres'
 # print(sports_directory['soccer'])
-#MJ THE GOAT!!!
+
 
 #1.4 change the value 20 in z to 30
 z = [{'x': 10, 'y': 20}]
