@@ -22,6 +22,7 @@ sports_directory = {
 }
 # sports_directory['soccer'][0] = 'Andres'
 # print(sports_directory['soccer'])
+#MJ THE GOAT!!!
 
 #1.4 change the value 20 in z to 30
 z = [{'x': 10, 'y': 20}]
@@ -42,7 +43,6 @@ def iterateDictionary(some_list):
         for key,val in some_list[i].items():
             output += f"{key} - {val},"
         print(output)
-#iterateDictionary(students)
 
 #3 get value from a list of dictionaries
 def iterateDictionary2(first_name, some_list):
@@ -75,4 +75,3 @@ def printInfo(dict):
         for i in range(0, len(val)):
             print(val[i])
 printInfo(dojo)
-#MJ THE GOAT!!!
